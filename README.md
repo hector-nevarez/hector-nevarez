@@ -17,7 +17,7 @@ Full-stack developer & Physics engineer at day and casual gamer at night
 
 </br>
 
-![CSS](https://img.shields.io/badge/Style-CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/Style-CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=%231572B6)
 
 </br>
 
