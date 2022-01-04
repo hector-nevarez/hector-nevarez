@@ -11,10 +11,16 @@ Full-stack developer & Physics engineer at day and casual gamer at night
 - 💬 If you have any questions feel free to <a href="mailto:hanevarezg@gmail.com?subject=Email from Github README">send me an email</a>
 
 #### Technical skills
-![HTML5](https://img.shields.io/badge/Code-html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
-![JavaScript](https://img.shields.io/badge/Code-javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
 
 </br>
+
+![CSS](https://img.shields.io/badge/Style-CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
+</br>
+
 
 #### 🔭 I’m currently working on:
 
