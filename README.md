@@ -1,6 +1,10 @@
-# Hi there 👋 I'm Hector Nevarez
+<h1 align="center">
+Hi there 👋 I'm Hector Nevarez
+</h1>
 
-### Full-stack developer & Physics engineer at day and casual gamer at night
+<h2 align="center">
+Full-stack developer & Physics engineer at day and casual gamer at night
+</h2>
 
 #### Connect with me
 
@@ -9,6 +13,8 @@
 #### Technical skills
 ![HTML5](https://img.shields.io/badge/Code-html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
 ![JavaScript](https://img.shields.io/badge/Code-javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
+</br>
 
 #### 🔭 I’m currently working on:
 
