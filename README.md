@@ -42,16 +42,22 @@ If you have any questions feel free to send me an <a href="mailto:hanevarezg@gma
 ![Figma](https://img.shields.io/badge/Tools-Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=%23F24E1E)
 ![Heroku](https://img.shields.io/badge/Tools-Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 
+</br>
+
 #### 🔭 Currently working on:
 
 - App for transportation in React Native framework
 - Practicing algorithms
+
+</br>
 
 #### 🌱 Currently learning:
 
 - Styled Components/TailwindCSS
 - Firebase
 - AWS
+
+</br>
 
 #### 📈 GitHub stats:
 
