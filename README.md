@@ -15,8 +15,6 @@ Full-stack developer & Physics engineer by day and gamer by night
 
 If you have any questions feel free to send me an <a href="mailto:hanevarezg@gmail.com?subject=Email from Github README">email</a> 💬
 
-</br>
-
 #### 💼 Technical skills
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
