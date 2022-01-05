@@ -47,15 +47,11 @@ If you have any questions feel free to send me an <a href="mailto:hanevarezg@gma
 - App for transportation in React Native framework
 - Practicing algorithms
 
-</br>
-
 #### 🌱 Currently learning:
 
 - Styled Components/TailwindCSS
 - Firebase
 - AWS
-
-</br>
 
 #### 📈 GitHub stats:
 
