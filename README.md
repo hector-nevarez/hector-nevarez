@@ -58,6 +58,9 @@ If you have any questions feel free to send me an <a href="mailto:hanevarezg@gma
 <a href="https://github.com/hector-nevarez">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hector-nevarez&hide=issues,stars&show_icons=true&theme=vision-friendly-dark" />
 </a>
+
+</br>
+
 <a href="https://github.com/hector-nevarez">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-nevarez&layout=compact&theme=vision-friendly-dark&hide=Ruby&card_width=448" />
 </a>
