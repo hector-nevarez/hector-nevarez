@@ -6,15 +6,16 @@ Hi there 👋 I'm Hector Nevarez
 Full-stack developer & Physics engineer by day and gamer by night
 </h2>
 
-#### 🤝 Connect with me:
-
+<h4>
+🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/hector-nevarez">
 <img align="center" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1641353671~hmac=c4c71b2bfba56acc0575b2224a1256d7" alt="icon | LinkedIn" width="21px"/>
 </a>
+</h4>
+
+If you have any questions feel free to send me an <a href="mailto:hanevarezg@gmail.com?subject=Email from Github README">email</a> 💬
 
 </br>
-
-- 💬 If you have any questions feel free to <a href="mailto:hanevarezg@gmail.com?subject=Email from Github README">send me an email</a>
 
 #### 💼 Technical skills
 ![HTML5](https://img.shields.io/badge/Code-HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=%23E34F26)
@@ -54,16 +55,10 @@ Full-stack developer & Physics engineer by day and gamer by night
 
 #### 📈 GitHub stats:
 
-<!--
-**hector-nevarez/hector-nevarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/hector-nevarez">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hector-nevarez&hide=issues,stars&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/hector-nevarez">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector-nevarez&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
