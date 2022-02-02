@@ -9,7 +9,7 @@ Full-stack developer & Physics engineer by day and gamer by night
 <h4>
 🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/hector-nevarez">
-<img align="center" src="" alt="icon | LinkedIn" width="21px"/>
+<img align="center" src="linkedin.svg" alt="icon | LinkedIn" width="21px"/>
 </a>
 </h4>
 
