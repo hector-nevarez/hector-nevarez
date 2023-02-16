@@ -3,7 +3,7 @@ Hi there 👋 I'm Hector Nevarez
 </h1>
 
 <h2 align="center">
-Full-stack developer & Physics engineer by day and gamer by night
+Software Engineer by day and gamer by night
 </h2>
 
 <h4>
